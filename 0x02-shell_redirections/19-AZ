@@ -1,6 +1,2 @@
-#!/bin/bash
-<<<<<<< HEAD
-tr 'A' 'Z' | 'c' 'e'
-=======
-tr 'A' 'C' | 'Z' 'E'
->>>>>>> a139919989a09c5e06ac3f384bdb555ece37b2e4
+#!/bin/bash 
+tr 'A' 'C' | tr 'z' 'e' 
